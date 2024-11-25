@@ -21,7 +21,6 @@ $APPLICATION->SetTitle("Портфолио, изготовление зерка�
             height: 100% !important;
         }
     }
-    }
 </style> <!-- Top.Mail.Ru counter -->
 <script type="text/javascript">
     var _tmr = window._tmr || (window._tmr = []);
